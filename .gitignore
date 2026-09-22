@@ -1,0 +1,18 @@
+# Build output
+x64/
+Debug/
+Release/
+ 
+# Visual Studio personal/user settings
+*.vcxproj.user
+*.suo
+*.user
+ 
+# Third-party runtime binaries (download separately, see README)
+*.dll
+ 
+# Local-only notes / secrets — never commit
+reference
+secrets.txt
+.env
+ 
