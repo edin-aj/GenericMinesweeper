@@ -1,7 +1,7 @@
 # <h2 align=center>*Generic Minesweeper*</h2>
 
 <p align="center">
-   <img src= "https://github.com/edin-aj/GenericMinesweeper/blob/main/models/m_face_clicked.texture?raw=true">
+   <img src= "https://github.com/edin-aj/GenericMinesweeper/blob/main/models/m_face_expression.texture?raw=true">
 </p>
 
 I built this a while back as a classic Minesweeper clone, using C++ and SFML. It's a simple project but it covers a good chunk of game logic: recursive block expansion, mine placement, flagging, scoring and a timer, all wrapped in a small rendering loop.
