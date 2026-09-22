@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 603 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GenericMinesweeper.vcxproj -> C:\Users\USER\source\repos\GenericMinesweeper\x64\Release\GenericMinesweeper.exe
