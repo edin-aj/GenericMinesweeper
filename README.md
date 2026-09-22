@@ -1,7 +1,7 @@
 # <h2 align=center>*Generic Minesweeper*</h2>
 
 <p align="center">
-   <img src= "https://github.com/edin-aj/Minesweeper/blob/main/samples/gameplay.png?raw=true">
+   <img src= "https://github.com/edin-aj/GenericMinesweeper/blob/main/samples/gameplay.png?raw=true">
 </p>
 
 I built this a while back as a classic Minesweeper clone, using C++ and SFML. It's a simple project but it covers a good chunk of game logic: recursive block expansion, mine placement, flagging, scoring and a timer, all wrapped in a small rendering loop.
@@ -19,8 +19,8 @@ On the side, the game keeps track of your score and a running timer, which start
 The game was never fully finished *(an opening/menu screen was planned but never built)*, so here's a look at where it started versus where it ended up:
 
 <p align="center">
-   <img src= "https://github.com/edin-aj/Minesweeper/blob/main/samples/plan_2023-11-27.png?raw=true" width="45%">
-   <img src= "https://github.com/edin-aj/Minesweeper/blob/main/samples/release.png?raw=true" width="45%">
+   <img src= "https://github.com/edin-aj/GenericMinesweeper/blob/main/samples/plan_2023-11-27.png?raw=true" width="45%">
+   <img src= "https://github.com/edin-aj/GenericMinesweeper/blob/main/samples/release.png?raw=true" width="45%">
 </p>
 <p align="center">
    <i>Left: original concept &nbsp;|&nbsp; Right: released state</i>
@@ -53,31 +53,31 @@ To build and run the project, you'll need to download SFML yourself and link it 
   <tr>
     <td align="center">
       <h2>Issues, pull requests and repo</h2>
-      <a href="https://github.com/edin-aj/Minesweeper/issues">
-        <img src="https://img.shields.io/github/issues/edin-aj/Minesweeper" alt="GitHub issues">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/issues">
+        <img src="https://img.shields.io/github/issues/edin-aj/GenericMinesweeper" alt="GitHub issues">
       </a>
-      <a href="https://github.com/edin-aj/Minesweeper/issues?q=is%3Aissue+is%3Aclosed">
-        <img src="https://img.shields.io/github/issues-closed/edin-aj/Minesweeper" alt="GitHub issues closed">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/issues?q=is%3Aissue+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-closed/edin-aj/GenericMinesweeper" alt="GitHub issues closed">
       </a>
-      <a href="https://github.com/edin-aj/Minesweeper/pulls">
-        <img src="https://img.shields.io/github/issues-pr/edin-aj/Minesweeper" alt="GitHub pull requests">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/pulls">
+        <img src="https://img.shields.io/github/issues-pr/edin-aj/GenericMinesweeper" alt="GitHub pull requests">
       </a>
-      <a href="https://github.com/edin-aj/Minesweeper/pulls?q=is%3Apr+is%3Aclosed">
-        <img src="https://img.shields.io/github/issues-pr-closed/edin-aj/Minesweeper" alt="GitHub pull requests closed">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/pulls?q=is%3Apr+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-pr-closed/edin-aj/GenericMinesweeper" alt="GitHub pull requests closed">
       </a>
       <br>
-      <a href="https://github.com/edin-aj/Minesweeper/network/members">
-        <img src="https://img.shields.io/github/forks/edin-aj/Minesweeper?style=for-the-badge&color=lighgreen" alt="Forks">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/network/members">
+        <img src="https://img.shields.io/github/forks/edin-aj/GenericMinesweeper?style=for-the-badge&color=lighgreen" alt="Forks">
       </a>
-      <a href="https://github.com/edin-aj/Minesweeper/watchers">
-        <img src="https://img.shields.io/github/watchers/edin-aj/Minesweeper?style=for-the-badge&color=lighgreen" alt="Watchers">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/watchers">
+        <img src="https://img.shields.io/github/watchers/edin-aj/GenericMinesweeper?style=for-the-badge&color=lighgreen" alt="Watchers">
       </a>
-      <a href="https://github.com/edin-aj/Minesweeper/commits/main">
-        <img src="https://img.shields.io/github/last-commit/edin-aj/Minesweeper?style=for-the-badge&color=lighgreen" alt="Last Commit">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/commits/main">
+        <img src="https://img.shields.io/github/last-commit/edin-aj/GenericMinesweeper?style=for-the-badge&color=lighgreen" alt="Last Commit">
       </a>
       <br>
       <h2>You can give me a star!</h2>
-      <a href="https://github.com/edin-aj/Minesweeper/stargazers">
+      <a href="https://github.com/edin-aj/GenericMinesweeper/stargazers">
         <img src="https://i.imgur.com/FyVXkZL.png" alt="Built with Love">
       </a>
     </td>
