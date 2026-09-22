@@ -6,6 +6,8 @@
 
 I built this a while back as a classic Minesweeper clone, using C++ and SFML. It's a simple project but it covers a good chunk of game logic: recursive block expansion, mine placement, flagging, scoring and a timer, all wrapped in a small rendering loop.
 
+*This project is old and no longer maintained. It was a personal learning project and I won't be fixing bugs or adding features, but feel free to fork or build on it.*
+
 ## <h2 align=center>*How it works*</h2>
 
 The board is generated with a set of hidden mines placed randomly, and every other block is empty. Left-clicking an empty block reveals it, and if it has no neighboring mines, it recursively expands and opens up all the connected empty blocks around it, just like the original game.
